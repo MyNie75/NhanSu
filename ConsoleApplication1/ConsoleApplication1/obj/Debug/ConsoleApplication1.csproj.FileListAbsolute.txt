@@ -1,0 +1,6 @@
+E:\Visua studio\QuanLyNhanSu\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Visua studio\QuanLyNhanSu\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Visua studio\QuanLyNhanSu\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Visua studio\QuanLyNhanSu\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Visua studio\QuanLyNhanSu\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Visua studio\QuanLyNhanSu\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
